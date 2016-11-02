@@ -236,10 +236,10 @@ a.item_add {
 /*--banner--*/
 .banner{
 	width: 100%;
-    height: 700px;
-    display: block;
-    background: url(../images/ba11.jpg)no-repeat right top;
-	overflow-x:hidden;
+	height: 561px;
+	display: block;
+	background: url(../images/ba11.jpg)no-repeat right top;
+	overflow-x: hidden;
 }
 .no-cssanimations .rw-wrapper .rw-sentence span:first-child{
 	opacity: 1;
@@ -1510,7 +1510,7 @@ ul.nav_1 li a {
     left: -387%;
 }
 .banner {
-    height: 500px;
+	height: 467px;
 }
 .col-pic {
     padding-top: 5em;

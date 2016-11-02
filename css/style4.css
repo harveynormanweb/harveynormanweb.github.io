@@ -8,7 +8,10 @@
 }
 .rw-wrapper{
 	position: relative;
-	padding: 13em 0 0;
+	padding-top: 7em;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;
 }
 .rw-sentence{
 	margin: 0;
@@ -42,14 +45,32 @@
 	overflow: hidden;
 }
 .rw-words-1 span{
-font-family:'Oxygen-Regular';
-	font-size: 1.2em;
+	font-family: 'Oxygen-Regular';
+
+
+
+
+
+
+
+
+	font-size: 0.em;
 	-webkit-animation: rotateWordsFirst 18s linear infinite 0s;
 	-moz-animation: rotateWordsFirst 18s linear infinite 0s;
 	-o-animation: rotateWordsFirst 18s linear infinite 0s;
 	-ms-animation: rotateWordsFirst 18s linear infinite 0s;
 	animation: rotateWordsFirst 18s linear infinite 0s;
 	line-height: 1.4em;
+
+
+
+
+
+
+
+	font-size: 0.7.em;
+	font-size: 0.8em;
+	padding-left: 4px;
 }
 .rw-words-2 span{
 	font-size: 2em;
@@ -190,7 +211,7 @@ font-family:'Oxygen-Regular';
     font-size: 1.8em;
 }
 .rw-words-1 span {
-    font-size: 1em;
+	font-size: 0.8em;
 }
 .rw-words-2 span {
     font-size: 1.3em;
