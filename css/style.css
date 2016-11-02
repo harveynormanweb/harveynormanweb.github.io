@@ -1533,10 +1533,10 @@ ul.nav_1 li a {
 }
 @media(max-width:1000px){
 .navbar-toggle {
-    background-color: #000 !important;
+	background-color: transparent !important;
 }
 .navbar-toggle .icon-bar {
-    background-color: #fff;
+	background-color: transparent;
 }
 .header-login {
     margin-left: 24%;
@@ -1826,7 +1826,8 @@ td.add-check a {
     margin: 0;
 }
 .navbar-toggle {
-    float: left;
+	float: left;
+	color: transparent;
 }
 .logo {
     left: -3%;
