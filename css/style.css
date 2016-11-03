@@ -121,7 +121,7 @@ ul.nav_1 li {
 div#bs-megadropdown-tabs {
 	padding-top: 0;
 	padding-right: 0;
-	padding-left: 25px;
+	padding-left: 6px;
 	padding-bottom: 0;
 }
 .h_menu4 {
@@ -1495,7 +1495,7 @@ ul.nav.nav-pills {
 }
 @media(max-width:1220px){
 .h_menu4 {
-    margin-left: 16.6%;
+	margin-left: 20.6%;
 }
 ul.nav_1 li a {
     padding: 1.6em 1.2em;
@@ -1818,7 +1818,7 @@ td.add-check a {
 	padding:0;
 }
 .search-right {
-	width: 40%;
+	width: 28%;
 	float: right;
 }
 .h_menu4 {
@@ -2044,7 +2044,7 @@ h4.grid2 {
     width: 160px;
 }
 .search-right {
-	width: 50%;
+	width: 38%;
 }
 
 .footer-middle-in img{
