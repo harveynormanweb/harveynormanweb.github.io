@@ -241,6 +241,7 @@ a.item_add {
 	height: 561px;
 	display: block;
 	background: url(../images/ba11.jpg)no-repeat right top;
+	background-color: #ece9e4;
 	overflow-x: hidden;
 }
 .no-cssanimations .rw-wrapper .rw-sentence span:first-child{
