@@ -1318,30 +1318,6 @@ a.at-in {
   transition: color 0.2s ease-in-out;
 }
 /*--//checkout--*/
-/*--wish--*/
-.404 {
-  width: 31%;
-  margin: 5em auto 0;
-  border:1px solid #A6A5A5;
-  text-align:center;
-}
-.404 h6{
-	font-size: 1em;
-    background: #F5F5F5;
-    border-bottom: 1px solid #A6A5A5;
-    padding: 0.8em;
-    font-family: 'Ubuntu-Regular';
-}
-.404 h6 a{
-	text-decoration:none;
-	color:#a7a49c;
-	padding: 0 0.5em 0 0;
-}
-.404 p{
-	font-size:1.1em;
-	color:#F67777;
-	padding:0.8em 0 ;
-}
 /*--footer--*/
 .footer-middle{
 	background:#1F1F1F;
@@ -1523,9 +1499,6 @@ ul.nav_1 li a {
 .mid-2 p {
     font-size: 0.75em;
 }
-.404 {
-    width: 42%;
-}
 .b-wrapper1.long-img {
     padding-top: 14em;
 }
@@ -1650,9 +1623,6 @@ ul.nav_1 li a {
 .login-do {
     padding-bottom: 2em;
 }
-.404 {
-    width: 52%;
-}
 .b-wrapper1.long-img {
     padding-top: 19em;
 }
@@ -1757,9 +1727,6 @@ ul.nav_1 li {
 }
 .map iframe {
     min-height: 300px;
-}
-.404 {
-    width: 60%;
 }
 th {
     font-size: 1em;
@@ -1921,9 +1888,6 @@ nav.nav-sidebar {
 }
 .four h3 {
     font-size: 6em;
-}
-.404 {
-    width: 80%;
 }
 .check-out {
     padding: 3em 0em 0;
@@ -2190,16 +2154,6 @@ h4.cate {
 }
 .hvr-skew-backward {
     padding: 0.4em 1em;
-    font-size: 0.9em;
-}
-.404 {
-    width: 100%;
-    margin: 2em auto 0;
-}
-.404 h6 {
-    font-size: 0.85em;
-}
-.404 p {
     font-size: 0.9em;
 }
 .check-out {
