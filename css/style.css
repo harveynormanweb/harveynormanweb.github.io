@@ -592,6 +592,38 @@ a.buy-now:hover{
 .brand {
     padding: 5em 0;
 }
+.banner-contact{
+	text-align:center;
+	width: 100%;
+    height: 250px;
+    display: block;
+    background: url(../images/contact-us.jpg)no-repeat ;
+	padding:5em 0;
+}
+.banner-contact h1{
+	font-size:3em;
+	color:#fff;
+	font-family: 'Ubuntu-Regular';
+}
+.banner-contact h2{
+	font-size:0.9em;
+	color:#fff;
+	margin-top:1em;
+}
+.banner-contact h2 a{
+	color:#f67777;
+}
+.banner-contact h2 label{
+	margin:0 0.4em;
+}
+.banner-contact em {
+    width: 100px;
+    height: 2px;
+    display: block;
+    background: #fff;
+    border-radius: 10px;
+    margin: 0.5em auto;
+}
 .banner-top{
 	text-align:center;
 	width: 100%;
@@ -1138,12 +1170,13 @@ nav.nav-sidebar {
 }
 .contact-top h3{
 	font-size: 1.5em;
-	color:#000;
-	line-height:1.4em;
-    font-family: 'Ubuntu-Regular';
+	color: #000;
+	line-height: 1.4em;
+	font-family: 'Ubuntu-Regular';
+	text-align: center;
 }
 .contact-top div{
-	padding:0.5em 0;
+	padding: 0.5em 0;
 }
 .contact-top div input[type="text"], .contact-top div textarea {
 	width: 100%;
@@ -1230,7 +1263,10 @@ nav.nav-sidebar {
 	margin: 0 15px 0.7em;
 }
 .address {
-  padding: 2em 0 0;
+	padding-top: 0em;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;
 }
 /*--404--*/
 .four{
