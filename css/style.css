@@ -188,8 +188,10 @@ a.item_add {
 	margin-bottom:1em;
 }
 .box_1 h3{
-  color: #000;
-  font-size: 1em;
+	color: #000;
+	font-size: 1em;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: bold;
 }
 .box_1 h3 img{
 	margin-left: 5px;
@@ -1571,7 +1573,9 @@ ul.nav_1 li a {
     left: 43px;
 }
 .box_1 h3 {
-    font-size: 0.8em;
+	font-size: 0.8em;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: bold;
 }
 .box_1 p a {
     font-size: 0.7em;
