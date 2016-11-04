@@ -1255,10 +1255,10 @@ nav.nav-sidebar {
     font-family: 'Ubuntu-Regular';
 }
 .contact-left p {
-    font-size: 0.9em;
-    color: #B3B3B3;
-    line-height: 1.8em;
-    margin:1em 0 0;
+	font-size: 0.9em;
+	color: #7B7B7B;
+	line-height: 1.8em;
+	margin: 1em 0 0;
 }
 .address-grid i{
 	color:#F67777;
