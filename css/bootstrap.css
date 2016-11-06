@@ -5578,6 +5578,15 @@ a.list-group-item-danger.active:focus {
 .panel-success {
   border-color: #d6e9c6;
 }
+.panel-success:hover {
+  background-color: #d6e9c6;
+}
+.panel-success:focus {
+  background-color: #d6e9c6;
+}
+.panel-success:active {
+  background-color: #d6e9c6;
+}
 .panel-success > .panel-heading {
   color: #3c763d;
   background-color: #dff0d8;
@@ -5595,6 +5604,15 @@ a.list-group-item-danger.active:focus {
 }
 .panel-info {
   border-color: #bce8f1;
+}
+.panel-info:hover {
+  background-color: #bce8f1;
+}
+.panel-info:focus {
+  background-color: #bce8f1;
+}
+.panel-info:active {
+  background-color: #bce8f1;
 }
 .panel-info > .panel-heading {
   color: #31708f;
