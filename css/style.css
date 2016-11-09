@@ -2152,7 +2152,8 @@ label.line {
     margin-top: 0.5em;
 }
 .img img{
-    width:29%;
+    visibility:hidden;
+	position:absolute;
 }
 .item-grid,.item-grid1 {
     padding: 1em 0.3em 0;
